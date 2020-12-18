@@ -1,0 +1,8 @@
+setup.py
+upsv.py
+upsv.egg-info/PKG-INFO
+upsv.egg-info/SOURCES.txt
+upsv.egg-info/dependency_links.txt
+upsv.egg-info/entry_points.txt
+upsv.egg-info/requires.txt
+upsv.egg-info/top_level.txt
