@@ -2,7 +2,7 @@ import uuid
 
 class Cliente:
     def __init__(self, nombre, empresa, correo, posicion, uid=None):
-        self.name = name
+        self.nombre = nombre
         self.empresa = empresa
         self.correo = correo
         self.posicion = posicion
